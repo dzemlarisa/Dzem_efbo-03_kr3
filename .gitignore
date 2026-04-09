@@ -1,0 +1,13 @@
+6_1-6_3/.env
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/
+*.pyc
+.pytest_cache/
+6_4-6_5/.env
+7_1/.env
+8_1/.env
+8_1/users.db
+8_2/todos.db
